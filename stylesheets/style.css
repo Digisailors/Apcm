@@ -3022,7 +3022,7 @@ body.mac .dropcap {
 /* Revolution Slider
 -------------------------------------------------------------- */
 .tp-banner-container {
-	max-height: 1000px !important;
+	max-height: 100% !important;
 	width: 100% !important;
 	position: relative;
 	overflow: hidden !important;
@@ -3044,13 +3044,13 @@ body.mac .dropcap {
 	background-size: cover;
 }
 
-.parallax1 { background-image: url(../images/parallax/bg-parallax1.jpg); }
-.parallax2 { background-image: url(../images/parallax/bg-parallax2.jpg); }
-.parallax3 { background-image: url(../images/parallax/bg-parallax3.jpg); }
-.parallax4 { background-image: url(../images/parallax/bg-parallax4.jpg); }
-.parallax5 { background-image: url(../images/parallax/bg-parallax5.jpg); }
-.parallax6 { background-image: url(../images/parallax/bg-parallax6.jpg); }
-.parallax7 { background-image: url(../images/parallax/bg-parallax7.jpg); }
+.parallax1 { background-image: url(../images/parallax/bg1.jpg); }
+.parallax2 { background-image: url(../images/parallax/bg1.jpg); }
+.parallax3 { background-image: url(../images/parallax/bg1.jpg); }
+.parallax4 { background-image: url(../images/parallax/bg1.jpg); }
+.parallax5 { background-image: url(../images/parallax/bg1.jpg); }
+.parallax6 { background-image: url(../images/parallax/bg1.jpg); }
+.parallax7 { background-image: url(../images/parallax/bg1.jpg); }
 
 .flat-row .bg-overlay {
 	position: absolute;
