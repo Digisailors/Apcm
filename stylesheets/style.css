@@ -2777,107 +2777,7 @@ body.mac .dropcap {
 
 /* Switcher
 -------------------------------------------------------------- */
-.switcher-container {
-   position: fixed;
-   right: -250px;
-   top: 120px;
-   width: 250px;
-   background-color: #000000;
-   z-index: 99999999;
-}
 
-.switcher-container h2 {
-	color: #fff;
-	font-size: 14px;
-	font-weight: 400;
-	font-family: "Montserrat", sans-serif;
-	letter-spacing: 1.5px;
-    text-transform: uppercase;
-	height: 50px;
-	line-height: 50px;
-	padding-left: 50px;
-	padding-right: 50px;
-	margin: 0;
-	font-weight: 400;
-}
-
-.switcher-container h2 a {
-   background-color: #179bd7;
-   display: block;
-   position: absolute;
-   left: -50px;
-   top: 0;
-   width: 50px;
-   height: 50px;
-   line-height: 50px;
-   text-align: center;
-   outline: 0;
-   color: #fff;
-}
-
-.switcher-container h2 a:hover,
-.switcher-container h2 a:focus {
-   text-decoration: none;
-}
-
-.switcher-container h2 i {
-   margin-top: 12px;
-   font-size: 25px;
-   -webkit-animation: fa-spin 2s infinite linear;
-          animation: fa-spin 2s infinite linear; 
-}
-
-.switcher-container h3 {
-   font-size: 14px;
-   font-weight: 700;
-   color: #fff;
-   margin: 0;
-   line-height: 22px;
-   margin-bottom: 10px;
-   font-size: 16px;
-   line-height: 30px;   
-   font-family: 'Montserrat', sans-serif;
-   font-weight: 400;
-}
-
-.switcher-container .selector-box {   
-   color: #fff;
-   overflow: hidden;
-}
-
-.switcher-container .layout-switcher {
-   margin: 0 0 10px 0;
-   overflow: hidden;
-}
-
-.switcher-container .layout-switcher a.layout {
-   float: left;
-   display: block;
-   cursor: pointer;
-   text-align: center;
-   font-weight: 700;
-   padding: 10px 20px;
-   margin-left: 10px;
-}
-
-.switcher-container .layout-switcher a.layout:first-child {
-   margin-left: 0;
-}
-
-.switcher-container .layout-switcher a.layout:hover {
-   color: #fff;
-   cursor: pointer;
-}
-
-.switcher-container .color-box {
-   height: auto;
-   overflow: hidden;
-   margin-bottom: 6px;
-}
-
-.switcher-container .styleswitch {
-    margin-bottom: 10px;
-}
 
 .sw-odd {
 	background-color: #323232;
@@ -3022,7 +2922,7 @@ body.mac .dropcap {
 /* Revolution Slider
 -------------------------------------------------------------- */
 .tp-banner-container {
-	max-height: 1000px !important;
+	max-height: 100% !important;
 	width: 100% !important;
 	position: relative;
 	overflow: hidden !important;
@@ -3044,13 +2944,13 @@ body.mac .dropcap {
 	background-size: cover;
 }
 
-.parallax1 { background-image: url(../images/parallax/bg-parallax1.jpg); }
-.parallax2 { background-image: url(../images/parallax/bg-parallax2.jpg); }
-.parallax3 { background-image: url(../images/parallax/bg-parallax3.jpg); }
-.parallax4 { background-image: url(../images/parallax/bg-parallax4.jpg); }
-.parallax5 { background-image: url(../images/parallax/bg-parallax5.jpg); }
-.parallax6 { background-image: url(../images/parallax/bg-parallax6.jpg); }
-.parallax7 { background-image: url(../images/parallax/bg-parallax7.jpg); }
+.parallax1 { background-image: url(../images/parallax/bg1.jpg); }
+.parallax2 { background-image: url(../images/parallax/bg1.jpg); }
+.parallax3 { background-image: url(../images/parallax/bg1.jpg); }
+.parallax4 { background-image: url(../images/parallax/bg1.jpg); }
+.parallax5 { background-image: url(../images/parallax/bg1.jpg); }
+.parallax6 { background-image: url(../images/parallax/bg1.jpg); }
+.parallax7 { background-image: url(../images/parallax/bg1.jpg); }
 
 .flat-row .bg-overlay {
 	position: absolute;
